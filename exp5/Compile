@@ -1,0 +1,10 @@
+To Compile - 
+install iverilog or Xilinx ISE 
+
+$ iverilog -o outputfilename.out file.v
+
+To run - 
+$ ./outputfileame.out
+
+OR
+install GTKWave to observe simulation 
