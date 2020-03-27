@@ -7,4 +7,5 @@ To run -
 $ ./outputfileame.out
 
 OR
-install GTKWave to observe simulation 
+install GTKWave to observe simulation
+And open the respective *.vcd file in GTKWave
